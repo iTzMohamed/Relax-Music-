@@ -1,0 +1,6 @@
+﻿token=NTM1NzQwODQwNDM0MzM1NzY1.DyMsSA.iJwAvE1MxUJUX6-w2cyzYenClx8
+owner=475797943480352789
+prefix= 1
+game= 1Help| RelaxNetwork.,,
+stayinchannel=true
+songinstatus=true 
